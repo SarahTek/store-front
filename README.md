@@ -10,7 +10,7 @@ The following user/developer stories detail the major functionality for this pha
 - As a user, I want to choose a category and see a list of all available products matching that category
 - As a user, I want a clean, easy to use user interface so that I can shop the online store with confidence
 
-[PR](https://github.com/SarahTek/storefront/pull/1)
+[PR](https://github.com/SarahTek/store-front/pull/1)
 
 ## Phase 2 Requirements
 
